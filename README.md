@@ -6,7 +6,7 @@ This project showcases a luxury wine brand UI with a hero section, product cards
 ---
 
 ## 🌐 Live Demo
-[Click here to view the project](https://yourusername.github.io/Silver-Oak-Vineyards/)
+[Click here to view the project](https://keamogetswe-makgoba.github.io/Silver-Oak-Vineyards/)
 
 ---
 
